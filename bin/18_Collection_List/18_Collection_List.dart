@@ -31,6 +31,7 @@ void main(){
     stdout.write('${peopleList[i]} ');
   }
   print('');
+
   // mencetak semua list ( simple forEach )
   peopleList.forEach((s) => stdout.write('${s} '));
   // Mekanisme di atas dikenal sebagai lambda atau anonymous function
