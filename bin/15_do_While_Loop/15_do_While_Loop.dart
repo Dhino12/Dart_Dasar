@@ -21,5 +21,5 @@ void main(){
       break; // break akan kluar dari looping jika datavalid
     }
   }while(notValid);
-
+ 
 }
